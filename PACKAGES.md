@@ -17,3 +17,7 @@
 # Data
 
 - [vue-apollo](https://github.com/Akryum/vue-apollo/), vue:1.0|2.0, links:[howto](https://dev-blog.apollodata.com/use-apollo-in-your-vuejs-app-89812429d8b2#.jg2dyy30l)|[example](https://github.com/Akryum/frontpage-vue-app), status:dev
+
+# Internationalization
+
+- [vue-i18n](https://github.com/kazupon/vue-i18n), vue:2.0, links:[doc](https://kazupon.github.io/vue-i18n/), status:stable
