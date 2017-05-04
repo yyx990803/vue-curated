@@ -13,7 +13,7 @@
 # Ui Components
 
 - [v-tooltip](https://github.com/Akryum/vue-tooltip), vue:2.0, links:[demo](https://akryum.github.io/vue-tooltip/), status:dev
-- [vue-multiselect](https://github.com/monterail/vue-multiselect), vue:1.0|2.0, links:[doc](http://monterail.github.io/vue-multiselect/#sub-getting-started), [demo](http://monterail.github.io/vue-multiselect/), status:stable
+- [vue-multiselect](https://github.com/monterail/vue-multiselect), vue:1.0|2.0, links:[doc](http://monterail.github.io/vue-multiselect/#sub-getting-started)|[demo](http://monterail.github.io/vue-multiselect/), status:stable
 
 # Data
 
@@ -21,4 +21,4 @@
 
 # Validation
 
-- [vuelidate](https://github.com/monterail/vuelidate), vue:2.0, links:[doc](https://monterail.github.io/vuelidate/#getting-started), [demo](https://monterail.github.io/vuelidate/?ref=multiselect), status:dev
+- [vuelidate](https://github.com/monterail/vuelidate), vue:2.0, links:[doc](https://monterail.github.io/vuelidate/#getting-started)|[demo](https://monterail.github.io/vuelidate/?ref=multiselect), status:dev
