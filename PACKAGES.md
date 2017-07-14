@@ -39,6 +39,11 @@
 
 - [vue-meteor](https://github.com/Akryum/vue-meteor), vue:1.0|2.0, links:[example](https://github.com/Akryum/vue-meteor-demo), status:dev
 
+# Analytics
+
+- [vue-multianalytics](https://github.com/Glovo/vue-multianalytics), vue: 2.0, links:[example](https://github.com/Glovo/vue-multianalytics/tree/master/demo), status:stable
+- [vue-analytics](https://github.com/MatteoGabriele/vue-analytics), vue: 2.0, links:[doc](https://matteogabriele.gitbooks.io/vue-analytics/content/), status:stable
+
 # Tools
 
 - [vue-cli](https://github.com/vuejs/vue-cli), vue:1.0|2.0, status:stable, badge:official
