@@ -33,7 +33,7 @@
 
 # Templates
 
-- [vue-standalone-component](https://github.com/InCuca/vue-standalone-component), vue:2.0, status:stable, links:[demo](http://rafaelescala.com/buefy-example/)|[doc](https://github.com/vue-styleguidist/vue-styleguidist/blob/master/docs/Documenting.md)
+- [vue-standalone-component](https://github.com/InCuca/vue-standalone-component), vue:2.0, status:stable, links:[demo](http://rafaelescala.com/buefy-example/)|[doc](https://github.com/InCuca/vue-standalone-component/blob/master/README.md)
 
 # Internationalization
 
