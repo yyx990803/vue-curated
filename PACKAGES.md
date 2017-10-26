@@ -17,6 +17,7 @@
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll), vue:2.0, links:[doc](https://github.com/egoist/vue-mugen-scroll)|[demo](https://egoist.moe/vue-mugen-scroll/), status:stable
 - [vue-timeago](https://github.com/egoist/vue-timeago), vue:2.0, links:[doc](https://github.com/egoist/vue-timeago)|[demo](https://egoist.moe/vue-timeago/), status:stable
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller), vue:2.0, links:[demo](https://akryum.github.io/vue-virtual-scroller/), status:stable
+- [vue-autonumeric](https://github.com/autoNumeric/vue-autoNumeric), vue:2.0, links:[doc](https://github.com/autoNumeric/vue-autoNumeric/blob/master/README.md)|[demo](https://codepen.io/AnotherLinuxUser/pen/pWgOrZ?editors=1010)|[website](http://autonumeric.org)|[examples](http://autonumeric.org/#/guide), badge:official, status:stable
 
 # Data
 
