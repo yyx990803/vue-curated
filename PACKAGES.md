@@ -38,6 +38,7 @@
 # Integrations
 
 - [vue-meteor](https://github.com/Akryum/vue-meteor), vue:1.0|2.0, links:[example](https://github.com/Akryum/vue-meteor-demo), status:dev
+- [vue-socket.io](https://github.com/MetinSeylan/Vue-Socket.io), vue:1.0|2.0, links:[demo](http://metinseylan.com/vuesocketio), status:dev
 
 # Tools
 
