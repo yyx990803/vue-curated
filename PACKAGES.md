@@ -62,3 +62,4 @@
 
 - [avoriaz](https://github.com/eddyerburgh/avoriaz), vue:2.0, links:[doc](https://eddyerburgh.gitbooks.io/avoriaz/content/), status:stable
 - [vue-test-utils](https://github.com/vuejs/vue-test-utils), vue:2.0, links:[doc](https://vue-test-utils.vuejs.org/), badge:official, status:dev
+- [vue-dummy](https://github.com/paulcollett/vue-dummy), vue:2.0, links:[example](https://paulcollett.github.io/vue-dummy/example/), status:stable
