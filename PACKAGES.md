@@ -12,7 +12,7 @@
 
 # Ui Components
 
-- [v-tooltip](https://github.com/Akryum/vue-tooltip), vue:2.0, links:[demo](https://akryum.github.io/vue-tooltip/), status:dev
+- [v-tooltip](https://github.com/Akryum/vue-tooltip), vue:2.0, links:[demo](https://akryum.github.io/v-tooltip/), status:dev
 - [vue-multiselect](https://github.com/monterail/vue-multiselect), vue:1.0|2.0, links:[doc](http://monterail.github.io/vue-multiselect/#sub-getting-started)|[demo](http://monterail.github.io/vue-multiselect/), status:stable
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll), vue:2.0, links:[doc](https://github.com/egoist/vue-mugen-scroll)|[demo](https://egoist.moe/vue-mugen-scroll/), status:stable
 - [vue-timeago](https://github.com/egoist/vue-timeago), vue:2.0, links:[doc](https://github.com/egoist/vue-timeago)|[demo](https://egoist.moe/vue-timeago/), status:stable
@@ -52,6 +52,7 @@
 - [framework7](https://github.com/nolimits4web/Framework7), vue:2.0, links:[get started](http://framework7.io/get-started/)|[doc](http://framework7.io/docs/), status:stable
 - [onsen-ui](https://github.com/OnsenUI/OnsenUI), vue:2.0, links:[get started](https://onsen.io/v2/guide/vue/)|[doc](https://onsen.io/v2/api/vue/), status:stable
 - [vue-material](https://github.com/vuematerial/vue-material), vue:2.0, links:[doc](http://vuematerial.io/), status:dev
+- [vuetify](https://github.com/vuetifyjs/vuetify), vue:2.0, links:[website](https://vuetifyjs.com/)|[doc](https://vuetifyjs.com/vuetify/quick-start), status:dev
 
 # Frameworks
 
