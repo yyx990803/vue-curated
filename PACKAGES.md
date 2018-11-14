@@ -18,7 +18,6 @@
 - [vue-timeago](https://github.com/egoist/vue-timeago), vue:2.0, links:[doc](https://github.com/egoist/vue-timeago)|[demo](https://egoist.moe/vue-timeago/), status:stable
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller), vue:2.0, links:[demo](https://akryum.github.io/vue-virtual-scroller/), status:stable
 
-
 # Data
 
 - [vue-apollo](https://github.com/Akryum/vue-apollo/), vue:1.0|2.0, links:[howto](https://dev-blog.apollodata.com/use-apollo-in-your-vuejs-app-89812429d8b2#.jg2dyy30l)|[example](https://github.com/Akryum/frontpage-vue-app), status:dev
