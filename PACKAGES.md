@@ -18,6 +18,7 @@
 - [vue-timeago](https://github.com/egoist/vue-timeago), vue:2.0, links:[doc](https://github.com/egoist/vue-timeago)|[demo](https://egoist.moe/vue-timeago/), status:stable
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller), vue:2.0, links:[demo](https://akryum.github.io/vue-virtual-scroller/), status:stable
 
+
 # Data
 
 - [vue-apollo](https://github.com/Akryum/vue-apollo/), vue:1.0|2.0, links:[howto](https://dev-blog.apollodata.com/use-apollo-in-your-vuejs-app-89812429d8b2#.jg2dyy30l)|[example](https://github.com/Akryum/frontpage-vue-app), status:dev
@@ -53,6 +54,7 @@
 - [onsen-ui](https://github.com/OnsenUI/OnsenUI), vue:2.0, links:[get started](https://onsen.io/v2/guide/vue/)|[doc](https://onsen.io/v2/api/vue/), status:stable
 - [vue-material](https://github.com/vuematerial/vue-material), vue:2.0, links:[doc](http://vuematerial.io/), status:dev
 - [vuetify](https://github.com/vuetifyjs/vuetify), vue:2.0, links:[website](https://vuetifyjs.com/)|[doc](https://vuetifyjs.com/vuetify/quick-start), status:dev
+- [syncfusion-vue-ui-components](https://github.com/syncfusion/ej2-vue-ui-components), vue:2.0, links:[website](https://www.syncfusion.com/vue-ui-components)|[demos](https://ej2.syncfusion.com/home/vue.html)|[doc](https://ej2.syncfusion.com/vue/documentation/introduction), status:stable
 
 # Frameworks
 
