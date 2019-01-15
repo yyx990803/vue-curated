@@ -24,6 +24,7 @@
 - [vuefire](https://github.com/vuejs/vuefire), vue:1.0|2.0, status:stable
 - [vuexfire](https://github.com/posva/vuexfire), vue:2.0, links:[example](https://jsfiddle.net/posva/6w3ks04x/), status:stable
 - [axios](https://github.com/mzabriskie/axios), vue:1.0|2.0, links:[example](https://vuejs.org/v2/guide/computed.html#Watchers), status:stable
+- [vue-ls](https://github.com/RobinCK/vue-ls), vue:1.0|2.0, links:[doc](https://robinck.gitbooks.io/vue-storage/)|[example](https://jsfiddle.net/Robin_ck/6x1akv1L/), status:stable
 
 # Ui Utilities
 
