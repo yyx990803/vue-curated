@@ -53,6 +53,7 @@
 - [onsen-ui](https://github.com/OnsenUI/OnsenUI), vue:2.0, links:[get started](https://onsen.io/v2/guide/vue/)|[doc](https://onsen.io/v2/api/vue/), status:stable
 - [vue-material](https://github.com/vuematerial/vue-material), vue:2.0, links:[doc](http://vuematerial.io/), status:dev
 - [vuetify](https://github.com/vuetifyjs/vuetify), vue:2.0, links:[website](https://vuetifyjs.com/)|[doc](https://vuetifyjs.com/vuetify/quick-start), status:dev
+- [inkline](https://github.com/inkline/inkline), vue:2.0, links:[website](https://inkline.io/)|[doc](https://inkline.io/docs/introduction/getting-started), status:stable
 
 # Frameworks
 
