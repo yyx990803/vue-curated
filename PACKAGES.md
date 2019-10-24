@@ -62,3 +62,9 @@
 
 - [avoriaz](https://github.com/eddyerburgh/avoriaz), vue:2.0, links:[doc](https://eddyerburgh.gitbooks.io/avoriaz/content/), status:stable
 - [vue-test-utils](https://github.com/vuejs/vue-test-utils), vue:2.0, links:[doc](https://vue-test-utils.vuejs.org/), badge:official, status:dev
+
+# Documentation
+
+- [@vuedoc/parser](https://gitlab.com/vuedoc/parser), vue:2.0, status:stable
+- [@vuedoc/md](https://gitlab.com/vuedoc/md), vue:2.0, status:stable
+
