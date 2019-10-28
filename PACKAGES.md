@@ -57,6 +57,7 @@
 # Frameworks
 
 - [nuxt](https://github.com/nuxt/nuxt.js), vue:2.0, links:[doc](https://nuxtjs.org/), status:dev
+- [Factor Platform](https://github.com/fiction-com/factor), vue:|2.0, links:[website](https://factor.dev/)|[guide](https://factor.dev/guide) status:dev
 
 # Testing
 
