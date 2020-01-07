@@ -53,6 +53,7 @@
 - [onsen-ui](https://github.com/OnsenUI/OnsenUI), vue:2.0, links:[get started](https://onsen.io/v2/guide/vue/)|[doc](https://onsen.io/v2/api/vue/), status:stable
 - [vue-material](https://github.com/vuematerial/vue-material), vue:2.0, links:[doc](http://vuematerial.io/), status:dev
 - [vuetify](https://github.com/vuetifyjs/vuetify), vue:2.0, links:[website](https://vuetifyjs.com/)|[doc](https://vuetifyjs.com/vuetify/quick-start), status:dev
+- [syncfusion-vue-ui-components](https://github.com/syncfusion/ej2-vue-ui-components), vue:2.0, links:[website](https://www.syncfusion.com/vue-ui-components)|[demos](https://ej2.syncfusion.com/home/vue.html)|[doc](https://ej2.syncfusion.com/vue/documentation/introduction), status:stable
 
 # Frameworks
 
