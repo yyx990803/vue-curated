@@ -17,6 +17,8 @@
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll), vue:2.0, links:[doc](https://github.com/egoist/vue-mugen-scroll)|[demo](https://egoist.moe/vue-mugen-scroll/), status:stable
 - [vue-timeago](https://github.com/egoist/vue-timeago), vue:2.0, links:[doc](https://github.com/egoist/vue-timeago)|[demo](https://egoist.moe/vue-timeago/), status:stable
 - [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller), vue:2.0, links:[demo](https://akryum.github.io/vue-virtual-scroller/), status:stable
+- [vue-awesome](https://github.com/Justineo/vue-awesome), vue:2.0, links:[doc](https://github.com/Justineo/vue-awesome)|[demo](https://justineo.github.io/vue-awesome/demo/), status:stable
+- [vue-echarts](https://github.com/Justineo/vue-echarts), vue:2.0, links:[doc](https://github.com/Justineo/vue-echarts)|[demo](https://justineo.github.io/vue-echarts/demo/), status:stable
 
 # Data
 
