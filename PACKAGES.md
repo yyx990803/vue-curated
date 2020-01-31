@@ -53,6 +53,7 @@
 - [onsen-ui](https://github.com/OnsenUI/OnsenUI), vue:2.0, links:[get started](https://onsen.io/v2/guide/vue/)|[doc](https://onsen.io/v2/api/vue/), status:stable
 - [vue-material](https://github.com/vuematerial/vue-material), vue:2.0, links:[doc](http://vuematerial.io/), status:dev
 - [vuetify](https://github.com/vuetifyjs/vuetify), vue:2.0, links:[website](https://vuetifyjs.com/)|[doc](https://vuetifyjs.com/vuetify/quick-start), status:dev
+- [vuesax] (https://github.com/lusaxweb/vuesax), vue:2.0, links:[website](https://lusaxweb.github.io/vuesax/)|[doc](https://lusaxweb.github.io/vuesax/vuesax/), status:dev
 
 # Frameworks
 
