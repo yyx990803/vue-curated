@@ -31,6 +31,10 @@
 - [portal-vue](https://github.com/linusborg/portal-vue), vue:2.0, links:[doc](https://linusborg.github.io/portal-vue/#/getting-started), status:stable
 - [vue-motion](https://github.com/posva/vue-motion), vue:2.0, links:[doc](https://posva.net/vue-motion/#/home)|[demo](https://posva.net/vue-motion), status:dev
 
+# Templates
+
+- [vue-standalone-component](https://github.com/InCuca/vue-standalone-component), vue:2.0, status:stable, links:[demo](http://rafaelescala.com/buefy-example/)|[doc](https://github.com/InCuca/vue-standalone-component/blob/master/README.md)
+
 # Internationalization
 
 - [vue-i18n](https://github.com/kazupon/vue-i18n), vue:2.0, links:[doc](https://kazupon.github.io/vue-i18n/), status:stable
@@ -44,6 +48,7 @@
 - [vue-cli](https://github.com/vuejs/vue-cli), vue:1.0|2.0, status:stable, badge:official
 - [vue-dev-tools](https://github.com/vuejs/vue-devtools), vue:1.0|2.0, links:[install on Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)|[install on Firefox](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/), status:stable, badge:official
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue), vue:2.0, status:dev, badge:official
+- [vue-styleguidist](https://github.com/vue-styleguidist), vue:2.0, status: stable, links:[demo](http://rafaelescala.com/vue-styleguide/)|[doc](https://github.com/vue-styleguidist/vue-styleguidist/tree/master/docs)
 
 # Ui Frameworks
 
